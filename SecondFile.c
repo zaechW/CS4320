@@ -2,8 +2,5 @@
 #include <stdio.h>
 
 int main() {
-    println("some good code");
-
-
-    
+    println("really good code");
 }
